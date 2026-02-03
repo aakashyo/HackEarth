@@ -66,5 +66,4 @@ Our model demonstrates exceptional performance in handling the "ambiguity" of In
 *   Real-time analysis of video streams.
 *   Expansion to Malayalam and Telugu.
 
----
-*Built with ❤️ for HackEarth.*
+
