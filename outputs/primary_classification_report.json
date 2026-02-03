@@ -1,0 +1,291 @@
+{
+  "Anger": {
+    "precision": 0.06666666666666667,
+    "recall": 0.10526315789473684,
+    "f1-score": 0.08163265306122448,
+    "support": 19.0
+  },
+  "Betrayal": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Calmness": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Care": {
+    "precision": 0.1,
+    "recall": 0.5,
+    "f1-score": 0.16666666666666666,
+    "support": 2.0
+  },
+  "Caution": {
+    "precision": 0.3333333333333333,
+    "recall": 0.03571428571428571,
+    "f1-score": 0.06451612903225806,
+    "support": 28.0
+  },
+  "Clarity": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Commitment": {
+    "precision": 0.2857142857142857,
+    "recall": 1.0,
+    "f1-score": 0.4444444444444444,
+    "support": 2.0
+  },
+  "Compassion": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "Complaint": {
+    "precision": 0.03571428571428571,
+    "recall": 0.25,
+    "f1-score": 0.0625,
+    "support": 4.0
+  },
+  "Confidence": {
+    "precision": 0.05555555555555555,
+    "recall": 0.125,
+    "f1-score": 0.07692307692307693,
+    "support": 8.0
+  },
+  "Contentment": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6.0
+  },
+  "Courage": {
+    "precision": 0.125,
+    "recall": 0.16666666666666666,
+    "f1-score": 0.14285714285714285,
+    "support": 6.0
+  },
+  "Despair": {
+    "precision": 0.09009009009009009,
+    "recall": 0.9090909090909091,
+    "f1-score": 0.16393442622950818,
+    "support": 11.0
+  },
+  "Devotion": {
+    "precision": 0.15384615384615385,
+    "recall": 0.16666666666666666,
+    "f1-score": 0.16,
+    "support": 12.0
+  },
+  "Duty": {
+    "precision": 0.14285714285714285,
+    "recall": 0.25,
+    "f1-score": 0.18181818181818182,
+    "support": 4.0
+  },
+  "Fear": {
+    "precision": 0.4,
+    "recall": 0.32,
+    "f1-score": 0.35555555555555557,
+    "support": 25.0
+  },
+  "Generosity": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6.0
+  },
+  "Gratitude": {
+    "precision": 0.25,
+    "recall": 0.125,
+    "f1-score": 0.16666666666666666,
+    "support": 8.0
+  },
+  "Happiness": {
+    "precision": 0.3392857142857143,
+    "recall": 0.48717948717948717,
+    "f1-score": 0.4,
+    "support": 39.0
+  },
+  "Honesty": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "Hospitality": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Humility": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "Integrity": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "Joy": {
+    "precision": 0.4,
+    "recall": 0.36363636363636365,
+    "f1-score": 0.38095238095238093,
+    "support": 11.0
+  },
+  "Kindness": {
+    "precision": 0.14285714285714285,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.2,
+    "support": 6.0
+  },
+  "Longing": {
+    "precision": 0.7317073170731707,
+    "recall": 0.20833333333333334,
+    "f1-score": 0.32432432432432434,
+    "support": 144.0
+  },
+  "Love": {
+    "precision": 0.39285714285714285,
+    "recall": 0.18333333333333332,
+    "f1-score": 0.25,
+    "support": 60.0
+  },
+  "Loyalty": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Melancholy": {
+    "precision": 0.5172413793103449,
+    "recall": 0.40540540540540543,
+    "f1-score": 0.45454545454545453,
+    "support": 111.0
+  },
+  "Mixed": {
+    "precision": 0.09375,
+    "recall": 0.2,
+    "f1-score": 0.1276595744680851,
+    "support": 15.0
+  },
+  "Modesty": {
+    "precision": 0.09523809523809523,
+    "recall": 0.5,
+    "f1-score": 0.16,
+    "support": 4.0
+  },
+  "Nature": {
+    "precision": 0.34375,
+    "recall": 0.5238095238095238,
+    "f1-score": 0.41509433962264153,
+    "support": 21.0
+  },
+  "Patience": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Patriotism": {
+    "precision": 0.15625,
+    "recall": 0.21739130434782608,
+    "f1-score": 0.18181818181818182,
+    "support": 23.0
+  },
+  "Philosophy": {
+    "precision": 0.18181818181818182,
+    "recall": 0.1935483870967742,
+    "f1-score": 0.1875,
+    "support": 31.0
+  },
+  "Pride": {
+    "precision": 0.2,
+    "recall": 0.14285714285714285,
+    "f1-score": 0.16666666666666666,
+    "support": 14.0
+  },
+  "Respect": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 14.0
+  },
+  "Responsibility": {
+    "precision": 0.15789473684210525,
+    "recall": 0.21428571428571427,
+    "f1-score": 0.18181818181818182,
+    "support": 14.0
+  },
+  "Reverence": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1-score": 0.5,
+    "support": 2.0
+  },
+  "Sadness": {
+    "precision": 0.5510204081632653,
+    "recall": 0.25,
+    "f1-score": 0.34394904458598724,
+    "support": 108.0
+  },
+  "Security": {
+    "precision": 0.14285714285714285,
+    "recall": 0.5,
+    "f1-score": 0.2222222222222222,
+    "support": 2.0
+  },
+  "Self-Control": {
+    "precision": 0.1111111111111111,
+    "recall": 0.25,
+    "f1-score": 0.15384615384615385,
+    "support": 4.0
+  },
+  "Shame": {
+    "precision": 0.14285714285714285,
+    "recall": 0.1875,
+    "f1-score": 0.16216216216216217,
+    "support": 16.0
+  },
+  "Skill": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Sorrow": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Wisdom": {
+    "precision": 0.15384615384615385,
+    "recall": 0.16666666666666666,
+    "f1-score": 0.16,
+    "support": 12.0
+  },
+  "accuracy": 0.2536407766990291,
+  "macro avg": {
+    "precision": 0.16071998223683104,
+    "recall": 0.2126235148112645,
+    "f1-score": 0.1530450789192863,
+    "support": 824.0
+  },
+  "weighted avg": {
+    "precision": 0.39026272802399,
+    "recall": 0.2536407766990291,
+    "f1-score": 0.2718308507050645,
+    "support": 824.0
+  }
+}

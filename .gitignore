@@ -1,0 +1,15 @@
+__pycache__/
+.env
+.DS_Store
+*.key
+*.pem
+venv/
+env/
+# Ignore heavy model cache
+model_cache/
+models/
+# Ignore Oracle code with API Key
+backend/app_oracle.py
+# Ignore outputs folder but maybe keep some assets? user wants to show off.
+# Let's keep outputs if they are small.
+*.log

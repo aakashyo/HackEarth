@@ -1,0 +1,345 @@
+{
+  "Admiration": {
+    "precision": 0.18181818181818182,
+    "recall": 0.16666666666666666,
+    "f1-score": 0.17391304347826086,
+    "support": 12.0
+  },
+  "Anger": {
+    "precision": 0.21621621621621623,
+    "recall": 0.5,
+    "f1-score": 0.3018867924528302,
+    "support": 16.0
+  },
+  "Appreciation": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Calmness": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Caution": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6.0
+  },
+  "Commitment": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Compassion": {
+    "precision": 0.2,
+    "recall": 0.25,
+    "f1-score": 0.2222222222222222,
+    "support": 4.0
+  },
+  "Complaint": {
+    "precision": 0.21428571428571427,
+    "recall": 0.375,
+    "f1-score": 0.2727272727272727,
+    "support": 8.0
+  },
+  "Confidence": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 8.0
+  },
+  "Contentment": {
+    "precision": 0.08333333333333333,
+    "recall": 0.25,
+    "f1-score": 0.125,
+    "support": 4.0
+  },
+  "Courage": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6.0
+  },
+  "Decorum": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Despair": {
+    "precision": 0.037037037037037035,
+    "recall": 0.045454545454545456,
+    "f1-score": 0.04081632653061224,
+    "support": 22.0
+  },
+  "Devotion": {
+    "precision": 0.1,
+    "recall": 0.030303030303030304,
+    "f1-score": 0.046511627906976744,
+    "support": 33.0
+  },
+  "Disgust": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Duty": {
+    "precision": 0.21428571428571427,
+    "recall": 0.3,
+    "f1-score": 0.25,
+    "support": 10.0
+  },
+  "Fear": {
+    "precision": 0.11428571428571428,
+    "recall": 0.23529411764705882,
+    "f1-score": 0.15384615384615385,
+    "support": 17.0
+  },
+  "Gratitude": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Happiness": {
+    "precision": 0.24444444444444444,
+    "recall": 0.2558139534883721,
+    "f1-score": 0.25,
+    "support": 43.0
+  },
+  "Honesty": {
+    "precision": 0.08333333333333333,
+    "recall": 0.25,
+    "f1-score": 0.125,
+    "support": 4.0
+  },
+  "Humility": {
+    "precision": 0.125,
+    "recall": 0.25,
+    "f1-score": 0.16666666666666666,
+    "support": 4.0
+  },
+  "Integrity": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Joy": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 28.0
+  },
+  "Justice": {
+    "precision": 0.09090909090909091,
+    "recall": 0.5,
+    "f1-score": 0.15384615384615385,
+    "support": 2.0
+  },
+  "Kindness": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "Longing": {
+    "precision": 0.19047619047619047,
+    "recall": 0.2857142857142857,
+    "f1-score": 0.22857142857142856,
+    "support": 28.0
+  },
+  "Love": {
+    "precision": 0.22580645161290322,
+    "recall": 0.2,
+    "f1-score": 0.21212121212121213,
+    "support": 35.0
+  },
+  "Loyalty": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Melancholy": {
+    "precision": 0.2360248447204969,
+    "recall": 0.6909090909090909,
+    "f1-score": 0.35185185185185186,
+    "support": 55.0
+  },
+  "Mixed": {
+    "precision": 0.06896551724137931,
+    "recall": 0.08,
+    "f1-score": 0.07407407407407407,
+    "support": 25.0
+  },
+  "Nature": {
+    "precision": 0.21052631578947367,
+    "recall": 0.2857142857142857,
+    "f1-score": 0.24242424242424243,
+    "support": 28.0
+  },
+  "Patience": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Patriotism": {
+    "precision": 0.19047619047619047,
+    "recall": 0.34782608695652173,
+    "f1-score": 0.24615384615384617,
+    "support": 23.0
+  },
+  "Peace": {
+    "precision": 0.3333333333333333,
+    "recall": 0.75,
+    "f1-score": 0.46153846153846156,
+    "support": 4.0
+  },
+  "Pride": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 10.0
+  },
+  "Reflection": {
+    "precision": 0.10204081632653061,
+    "recall": 0.15151515151515152,
+    "f1-score": 0.12195121951219512,
+    "support": 33.0
+  },
+  "Regret": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 16.0
+  },
+  "Respect": {
+    "precision": 0.1875,
+    "recall": 0.11538461538461539,
+    "f1-score": 0.14285714285714285,
+    "support": 26.0
+  },
+  "Responsibility": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 14.0
+  },
+  "Restraint": {
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1-score": 0.8,
+    "support": 2.0
+  },
+  "Sadness": {
+    "precision": 0.6363636363636364,
+    "recall": 0.03365384615384615,
+    "f1-score": 0.0639269406392694,
+    "support": 208.0
+  },
+  "Secrecy": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Self-Control": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "Self-Improvement": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Shame": {
+    "precision": 0.3333333333333333,
+    "recall": 0.5,
+    "f1-score": 0.4,
+    "support": 2.0
+  },
+  "Shyness": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Sorrow": {
+    "precision": 0.25,
+    "recall": 0.125,
+    "f1-score": 0.16666666666666666,
+    "support": 16.0
+  },
+  "Strategy": {
+    "precision": 0.09090909090909091,
+    "recall": 0.16666666666666666,
+    "f1-score": 0.11764705882352941,
+    "support": 6.0
+  },
+  "Strength": {
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "f1-score": 0.5,
+    "support": 2.0
+  },
+  "Struggle": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Tenderness": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4.0
+  },
+  "Thankfulness": {
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1-score": 0.4,
+    "support": 2.0
+  },
+  "Understanding": {
+    "precision": 0.125,
+    "recall": 0.25,
+    "f1-score": 0.16666666666666666,
+    "support": 4.0
+  },
+  "Virtue": {
+    "precision": 0.18181818181818182,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.23529411764705882,
+    "support": 6.0
+  },
+  "Wisdom": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 14.0
+  },
+  "accuracy": 0.16990291262135923,
+  "macro avg": {
+    "precision": 0.11850041240635491,
+    "recall": 0.1949863577437722,
+    "f1-score": 0.13116693071317811,
+    "support": 824.0
+  },
+  "weighted avg": {
+    "precision": 0.2641696457620975,
+    "recall": 0.16990291262135923,
+    "f1-score": 0.13382332037969544,
+    "support": 824.0
+  }
+}
